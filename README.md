@@ -14,6 +14,8 @@ News App
 This app displays an order form for coffee. Used in the Udacity Android for Beginners course. This is how the app would look like after build and running:
 
 <img width="300" height="650" alt="Screenshot 2022-02-08 at 7 31 06 PM" src="https://github.com/kendrickchibueze/-Modern-Node-on-AWS/blob/main/aws-images/Screenshot%20(306).png?raw=true"><img width="300" height="650" alt="third_screenshot" src="https://github.com/kendrickchibueze/-Modern-Node-on-AWS/blob/main/aws-images/Screenshot%20(305).png?raw=true"/>
+
+
 Pre-requisites
 --------------
 - Android Studio 3.2.1 or higher
